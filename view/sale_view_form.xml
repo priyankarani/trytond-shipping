@@ -6,6 +6,8 @@
             <field name="total_weight"/>
             <label name="weight_uom"/>
             <field name="weight_uom"/>
+            <label name="service"/>
+            <field name="service"/>
         </page>
     </xpath>
 </data>
